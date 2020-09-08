@@ -1,3 +1,6 @@
+![picture](https://www.gsampallo.com/wp-content/uploads/2020/09/eepprom_24LC32A.jpg)
+
+
 # EEPROM_24LC32A_I2C
 
 Library for read and write data on eeprom 24LC32A via I2C for Arduino, ESP8266 and ESP32
@@ -16,6 +19,7 @@ Library for read and write data on eeprom 24LC32A via I2C for Arduino, ESP8266 a
 | 7 | A5 or SCL |
 | 8 | A4 or SDA with 10k pull up resistor |
 
+![pin](https://www.gsampallo.com/wp-content/uploads/2020/09/conexion_eepprom_24LC32A.jpg)
 
 ## Installation
 
