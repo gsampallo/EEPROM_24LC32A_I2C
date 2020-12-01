@@ -14,10 +14,10 @@ Library for read and write data on eeprom 24LC32A via I2C for Arduino, ESP8266 a
 | 2 | GND |
 | 3 | GND |
 | 4 | GND |
-| 5 | VCC|
-| 6 | GND to Enabled Write and VCC to Protected Write |
-| 7 | A5 or SCL |
-| 8 | A4 or SDA with 10k pull up resistor |
+| 8 | VCC|
+| 7 | GND to Enabled Write and VCC to Protected Write |
+| 6 | A5 or SCL |
+| 5 | A4 or SDA with 10k pull up resistor |
 
 ![pin](https://www.gsampallo.com/wp-content/uploads/2020/09/conexion_eepprom_24LC32A.jpg)
 
